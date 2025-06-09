@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏅 Achievements
 
-- 🥇 **LeetCode:** Solved 300+ problems- [link](https://leetcode.com/u/ranjith7935/)
+- 🥇 **LeetCode:** Solved 250+ problems- [link](https://leetcode.com/u/ranjith7935/)
 - ⭐ **HackerRank:** 4-star in C, 
 
 ---
