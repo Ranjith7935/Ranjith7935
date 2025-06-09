@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Ranjith Kumar 👋
 
-🚀 **Java Full Stack Developer** | 🧠 Machine Learning & AI Enthusiast | ♟️ Chess Player | 🏆 Competitive Programmer
+🚀 **Java Full Stack Developer** | 🧠 Machine Learning & AI Enthusiast | 
 
 ---
 
@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏅 Achievements
 
-- 🥇 **LeetCode:** Solved 300+ problems  
-- ⭐ **HackerRank:** 4-star in C, 2-star in Python
+- 🥇 **LeetCode:** Solved 300+ problems- [link](https://leetcode.com/u/ranjith7935/)
+- ⭐ **HackerRank:** 4-star in C, 
 
 ---
 
